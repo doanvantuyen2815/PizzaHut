@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="df667461b6904174bfcf4771a310200d" Name="Diagram1" ZoomLevel="88">
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.Combo" Width="1.5" PointX="3" PointY="11.875" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.ComboDetail" Width="1.5" PointX="5.25" PointY="9.75" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.DBCustomer" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.DBUnit" Width="1.5" PointX="0.75" PointY="8.375" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.Item" Width="1.5" PointX="3" PointY="8" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.OrderDetail" Width="1.5" PointX="5.25" PointY="0.75" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.OrderDetailCombo" Width="1.5" PointX="5.25" PointY="3.75" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.OrderDetailComboTemp" Width="1.5" PointX="5.75" PointY="7" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.OrderDetailTemp" Width="1.5" PointX="7.75" PointY="2" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.Order" Width="1.5" PointX="3" PointY="3.375" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.Promotion" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.sysdiagram" Width="1.5" PointX="7.75" PointY="5" />
+        <EntityTypeShape EntityType="QuanLiPizzaHutModel.User" Width="1.5" PointX="7.75" PointY="8" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__ComboDetail__ID__20C1E124" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__OrderDeta__IDCom__29572725" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__ComboDeta__IDIte__21B6055D" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__Orders__IDCustom__1B0907CE" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__Items__Price__1273C1CD" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__OrderDeta__IDIte__25869641" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__OrderDetail__ID__24927208" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__OrderDetailC__ID__286302EC" />
+        <AssociationConnector Association="QuanLiPizzaHutModel.FK__Orders__IDPromot__1BFD2C07" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

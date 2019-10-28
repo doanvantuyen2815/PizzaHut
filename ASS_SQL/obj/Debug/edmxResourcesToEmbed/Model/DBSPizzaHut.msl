@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLiPizzaHutModelStoreContainer" CdmEntityContainer="QuanLiPizzaHutEntities1">
+    <FunctionImportMapping FunctionImportName="EditUser" FunctionName="QuanLiPizzaHutModel.Store.EditUser" />
+    <FunctionImportMapping FunctionImportName="Search_NhanVien" FunctionName="QuanLiPizzaHutModel.Store.Search_NhanVien">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.Search_NhanVien_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="AddUser" FunctionName="QuanLiPizzaHutModel.Store.AddUser" />
+    <FunctionImportMapping FunctionImportName="DeleteNhanVien" FunctionName="QuanLiPizzaHutModel.Store.DeleteNhanVien" />
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="QuanLiPizzaHutModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="QuanLiPizzaHutModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="QuanLiPizzaHutModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="QuanLiPizzaHutModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="QuanLiPizzaHutModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_Login" FunctionName="QuanLiPizzaHutModel.Store.sp_Login">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.sp_Login_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Managers" ColumnName="Managers" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="QuanLiPizzaHutModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="QuanLiPizzaHutModel.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="Search_Item1" FunctionName="QuanLiPizzaHutModel.Store.Search_Item">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.Search_Item1_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="DonVi" ColumnName="DonVi" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Add_OrderTemp" FunctionName="QuanLiPizzaHutModel.Store.Add_OrderTemp" />
+    <FunctionImportMapping FunctionImportName="Add_OrderComboTemp" FunctionName="QuanLiPizzaHutModel.Store.Add_OrderComboTemp" />
+    <FunctionImportMapping FunctionImportName="Search_Combo" FunctionName="QuanLiPizzaHutModel.Store.Search_Combo">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.Search_Combo_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Add_Customer" FunctionName="QuanLiPizzaHutModel.Store.Add_Customer" />
+    <FunctionImportMapping FunctionImportName="InsertOrderDetail" FunctionName="QuanLiPizzaHutModel.Store.InsertOrderDetail" />
+    <FunctionImportMapping FunctionImportName="ThongKeTheoDonHang" FunctionName="QuanLiPizzaHutModel.Store.ThongKeTheoDonHang">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.ThongKeTheoDonHang_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ThongKeTheoKhachHang" FunctionName="QuanLiPizzaHutModel.Store.ThongKeTheoKhachHang">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.ThongKeTheoKhachHang_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Total_Amount" ColumnName="Total_Amount" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="Comboes">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.Combo">
+        <MappingFragment StoreEntitySet="Combo">
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ComboDetails">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.ComboDetail">
+        <MappingFragment StoreEntitySet="ComboDetail">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="IDItems" ColumnName="IDItems" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DBCustomers">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.DBCustomer">
+        <MappingFragment StoreEntitySet="DBCustomer">
+          <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DBUnits">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.DBUnit">
+        <MappingFragment StoreEntitySet="DBUnit">
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Items">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.Item">
+        <MappingFragment StoreEntitySet="Items">
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="IDUnit" ColumnName="IDUnit" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderDetails">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.OrderDetail">
+        <MappingFragment StoreEntitySet="OrderDetail">
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="IDItems" ColumnName="IDItems" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderDetailComboes">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.OrderDetailCombo">
+        <MappingFragment StoreEntitySet="OrderDetailCombo">
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="IDCombo" ColumnName="IDCombo" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderDetailComboTemps">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.OrderDetailComboTemp">
+        <MappingFragment StoreEntitySet="OrderDetailComboTemp">
+          <ScalarProperty Name="TotalPrice" ColumnName="TotalPrice" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="IDCombo" ColumnName="IDCombo" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderDetailTemps">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.OrderDetailTemp">
+        <MappingFragment StoreEntitySet="OrderDetailTemp">
+          <ScalarProperty Name="TotalPrice" ColumnName="TotalPrice" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="IDItem" ColumnName="IDItem" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="IDPromotions" ColumnName="IDPromotions" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="IDCustomer" ColumnName="IDCustomer" />
+          <ScalarProperty Name="Total_Amount" ColumnName="Total_Amount" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Promotions">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.Promotion">
+        <MappingFragment StoreEntitySet="Promotions">
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="EndTime" ColumnName="EndTime" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="QuanLiPizzaHutModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Managers" ColumnName="Managers" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Search_Customer" FunctionName="QuanLiPizzaHutModel.Store.Search_Customer">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLiPizzaHutModel.Search_Customer_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

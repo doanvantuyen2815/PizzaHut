@@ -1,0 +1,97 @@
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.exe.config
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.exe
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.pdb
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csprojResolveAssemblyReference.cache
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\MainWindow.g.cs
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\App.g.cs
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_MarkupCompile.cache
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_MarkupCompile.lref
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\MainWindow.baml
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.g.resources
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.Properties.Resources.resources
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.GenerateResource.Cache
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.exe
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.pdb
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\App.baml
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.dll
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.xml
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang Khai\Documents\Visual Studio 2017\Projects\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_Content.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csprojResolveAssemblyReference.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\LoginWindow.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\MainWindow.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\App.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_Content.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_MarkupCompile.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_MarkupCompile.lref
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.exe
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.pdb
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.exe.config
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.exe
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.pdb
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.SqlServer.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignColors.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.SqlServer.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\App.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\MainWindow.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\LoginWindow.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.g.resources
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.Properties.Resources.resources
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.GenerateResource.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.CoreCompileInputs.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.CopyComplete
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\ResourceXAML\MainResource.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\UserControlXAML\ControlBarUC.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\obj\Debug\UserControlXAML\ControlBarUC.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\System.Windows.Interactivity.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL\ASS_SQL\bin\Debug\System.Windows.Interactivity.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.exe.config
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.exe
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\ASS_SQL.pdb
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.SqlServer.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignColors.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\System.Windows.Interactivity.dll
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\EntityFramework.SqlServer.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\bin\Debug\System.Windows.Interactivity.xml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csprojResolveAssemblyReference.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\LoginWindow.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\MainWindow.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\UserControlXAML\ControlBarUC.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\App.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_Content.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_MarkupCompile.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL_MarkupCompile.lref
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\App.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\LoginWindow.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\MainWindow.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ResourceXAML\MainResource.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\UserControlXAML\ControlBarUC.baml
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.g.resources
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.Properties.Resources.resources
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.GenerateResource.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.CoreCompileInputs.cache
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.csproj.CopyComplete
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.exe
+G:\DBS\Assignment\ASS_SQL-20180426T165517Z-001\ASS_SQL_v2.2\ASS_SQL\ASS_SQL\obj\Debug\ASS_SQL.pdb
